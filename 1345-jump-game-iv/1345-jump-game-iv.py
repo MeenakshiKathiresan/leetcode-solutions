@@ -12,30 +12,29 @@ class Solution:
             else:
                 graph[arr[i]] = [i]
 
-        curs = [0] 
+        curs = deque([0] )
         visited = {0}
         step = 0
         
         while curs:
             nex = []
-
-            for node in curs:
+            for i in range(len(curs)):
+                node = curs.popleft()
+                
                 if node == n-1:
                     return step
 
                 for child in graph[arr[node]]:
                     if child not in visited:
                         visited.add(child)
-                        nex.append(child)
+                        curs.append(child)
 
                 graph[arr[node]].clear()
 
                 for child in [node-1, node+1]:
                     if 0 <= child < len(arr) and child not in visited:
                         visited.add(child)
-                        nex.append(child)
-
-            curs = nex
+                        curs.append(child)
             step += 1
 
         return -1
