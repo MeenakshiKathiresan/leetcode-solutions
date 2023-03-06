@@ -33,7 +33,6 @@ class Solution(object):
         while len(ans) > 0:
             
             head.val = int(ans[0])
-            print(ans[0])
             ans = ans[1:]
             if len(ans) > 0:
                 head.next = ListNode()
