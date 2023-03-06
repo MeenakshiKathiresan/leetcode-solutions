@@ -5,25 +5,17 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
+        l, r = 0 , len(arr)-1
         
-        nums = []
-        count = 1
-        i =0
-        while i< len(arr):
-            num = arr[i]
-            if num != count:
-                nums.append(count)
-                
-                if len(nums) == k:
-                    return nums[-1]
-            else:
-                
-                
-                i+=1
-                
-            count+=1
+        while l <= r:
+            m = (l+r)//2
             
-        return arr[-1] + k - len(nums)
+            if arr[m] - (m+1) < k:
+                l = m + 1
+            else:
+                r = m -1 
+            
+        return l + k
       
             
             
