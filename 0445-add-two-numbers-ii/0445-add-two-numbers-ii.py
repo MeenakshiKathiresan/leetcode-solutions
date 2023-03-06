@@ -26,9 +26,8 @@ class Solution(object):
         # 7807
         res = n1+n2
         
-        ans =str(res) #str(res)[::-1]
+        ans =str(res)
         
-        print(ans)
         head = rhead = ListNode()
         
         while len(ans) > 0:
@@ -40,7 +39,6 @@ class Solution(object):
                 head.next = ListNode()
             head = head.next
             
-        print(rhead)
             
         return rhead
         
