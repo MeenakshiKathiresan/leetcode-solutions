@@ -18,8 +18,7 @@ class Solution(object):
                 else:
                         visited.add((i,j))
                         isClosed = True
-                        # if i == 0 or i == len(grid)-1 or j == 0 or j == len(grid[0])-1:
-                        #     isEdge =  True
+                        
                             
                         for direction in directions:
                             currI = i + direction[0]
