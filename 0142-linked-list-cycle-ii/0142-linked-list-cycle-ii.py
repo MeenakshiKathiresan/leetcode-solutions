@@ -22,8 +22,6 @@ class Solution(object):
                 cycle = True
                 break
                 
-        print(cycle)
-        
         if cycle:
             if head == slow: return head
             while head != slow:
