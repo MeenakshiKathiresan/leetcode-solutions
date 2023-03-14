@@ -16,7 +16,6 @@ class Solution:
                 return '0'
             
             if root.right == None and root.left == None: 
-                print(str(num) + str(root.val), "returns")
                 return str(num) + str(root.val)
             
             n1 = getNumber(root.right, num + str(root.val))
@@ -27,6 +26,6 @@ class Solution:
             return int(n1) + int(n2)
 
             
-        num = getNumber(root, '')
+        return getNumber(root, '')
         
-        return num
+    
