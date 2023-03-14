@@ -13,7 +13,7 @@ class Solution:
         def getNumber(root, num):
             
             if root == None:
-                return '0'
+                return 0
             
             if root.right == None and root.left == None: 
                 return num * 10 + root.val
@@ -23,7 +23,7 @@ class Solution:
             n2 = getNumber(root.left, num * 10 + root.val)
             
             
-            return int(n1) + int(n2)
+            return n1 + n2
 
             
         return getNumber(root, 0)
