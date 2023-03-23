@@ -1,15 +1,7 @@
 from collections import defaultdict
 class Solution:
     def makeConnected(self, n: int, connections: List[List[int]]) -> int:
-        # find total number of unconnected units
-        """
-        0: [1,2]
-        1: [0,2]
-        2: [0,1]
-        """
-        
-        # construct adjacency list
-        
+      
         def dfs(i):
             if i in visited: return 
             visited.add(i)
@@ -31,8 +23,6 @@ class Solution:
             if i not in visited:
                 dfs(i)
                 count += 1
-        print(count)
-        print(extra_cables, graph)
                 
         if extra_cables < count -1: return -1
         return count - 1
