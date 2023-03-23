@@ -2,6 +2,9 @@ from collections import defaultdict
 class Solution:
     def makeConnected(self, n: int, connections: List[List[int]]) -> int:
       
+        if len(connections) < n-1:
+            return -1
+        
         def dfs(i):
             if i in visited: return 
             visited.add(i)
@@ -15,7 +18,6 @@ class Solution:
             graph[a].append(b)
             graph[b].append(a)
             
-            extra_cables += min(len(graph[a]), len(graph[b])) - 1
         
         visited = set()
         count = 0
@@ -24,6 +26,5 @@ class Solution:
                 dfs(i)
                 count += 1
                 
-        if extra_cables < count -1: return -1
         return count - 1
                 
