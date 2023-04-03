@@ -1,21 +1,32 @@
 class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
-        
         potions.sort()
-        answer = []
-
-        m = len(potions)
-        maxPotion = potions[m - 1]
-
-        for spell in spells:
+        
+        res = [0] * len(spells)
+         
+        for i, spell in enumerate(spells):
             
-            minPotion = (success + spell - 1) // spell
+            l, r = 0, len(potions) - 1
             
-            if minPotion > maxPotion:
-                answer.append(0)
-                continue
+            while l <= r:
+                mid = (l+r)//2
                 
-            index = bisect.bisect_left(potions, minPotion)
-            answer.append(m - index)
-
-        return answer
+                prod = spell * potions[mid]
+                prev_prod = spell * potions[max(0, mid-1)]
+                if prod >= success:
+                    if prev_prod >= success and mid == 0: 
+                            res[i] = len(potions)
+                            break
+                    elif prev_prod < success:
+                        res[i] = len(potions) - mid
+                        break
+                    else:
+                        r = mid -1
+                else:
+                    l = mid + 1
+            
+                    
+        return res
+                        
+                
+                    
