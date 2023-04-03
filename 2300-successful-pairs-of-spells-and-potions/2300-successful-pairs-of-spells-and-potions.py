@@ -3,6 +3,7 @@ class Solution:
         potions.sort()
         
         res = [0] * len(spells)
+        length = len(potions)
          
         for i, spell in enumerate(spells):
             
@@ -12,18 +13,13 @@ class Solution:
                 mid = (l+r)//2
                 
                 prod = spell * potions[mid]
-                prev_prod = spell * potions[max(0, mid-1)]
+                
                 if prod >= success:
-                    if prev_prod >= success and mid == 0: 
-                            res[i] = len(potions)
-                            break
-                    elif prev_prod < success:
-                        res[i] = len(potions) - mid
-                        break
-                    else:
-                        r = mid -1
+                    r = mid -1
                 else:
                     l = mid + 1
+                    
+            res[i] = max(0, length - (r+1))
             
                     
         return res
