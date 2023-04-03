@@ -11,15 +11,12 @@ class Solution:
                 if people[l] >= people[r]:
                     l+=1
                     count+=1
-                    print("left alone")
                 else:
                     r-=1
                     count+=1
-                    print("right alone")
             else:
                 l += 1
                 r -= 1
                 count += 1
-                print("both")
                 
         return count
