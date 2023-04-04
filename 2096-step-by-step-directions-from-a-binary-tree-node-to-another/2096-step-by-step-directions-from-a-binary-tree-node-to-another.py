@@ -34,7 +34,6 @@ class Solution:
         
         ans = ""
         dest_code = getCode(root, destValue, "")
-        print(start_code)
         start_index = 0
         
         for i in range(min(len(start_code), len(dest_code))):
