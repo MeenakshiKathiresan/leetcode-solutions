@@ -33,12 +33,21 @@ class Solution:
             
         count = 0
         
-        
+        for j, row in enumerate(grid[0]):
+            if grid[0][j] == 1:
+                dfs(0,j)
+                
+        for j, row in enumerate(grid[-1]):
+            if grid[len(grid)-1][j] == 1:
+                dfs(len(grid)-1,j)
+
         for i, row in enumerate(grid):
-            for j, cell in enumerate(row):
-                if grid[i][j] == 1:
-                    if i == 0 or i == (len(grid) - 1) or j == 0 or j == (len(grid[0])-1):
-                        dfs(i,j)
+            if grid[i][0] == 1:
+                dfs(i,0)
+                
+        for i, row in enumerate(grid):
+            if grid[i][len(grid[0])-1] == 1:
+                dfs(i,len(grid[0])-1)
 
         for i, row in enumerate(grid):
             for j, cell in enumerate(row):
