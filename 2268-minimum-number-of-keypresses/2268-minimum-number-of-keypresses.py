@@ -13,13 +13,22 @@ class Solution(object):
         freq = Counter(s)
         total = 0
         
-        press = 0 
-        
+        ans = press = 0 
+        freq = Counter(s)
+        for i, v in enumerate(sorted(freq.values(), reverse=True)): 
+            if i % 9 == 0: press += 1
+            ans += press * v
+        return ans 
+    
         
         for i, count in enumerate(sorted(freq.values(), reverse=True)):
          
-            if i % 9 == 0: press += 1
-            total += count * press
+            if i < 9:
+                total += count * 1
+            elif i < 18:
+                total += count * 2
+            else:
+                total += count * 3
         
         return total
         
