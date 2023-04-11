@@ -4,23 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        
-        # traverse in reverse
-        # count star
-        # slice out
-        
-        i = 0
-        star_count = 0
-        while i < len(s):
-            if s[i]!= '*':
-                if star_count > 0:
-                    s = s[:i-(star_count*2)] + s[i:]
-                    i -= (star_count*2)
-                star_count = 0
+        st = []
+        for i in range(0, len(s)):
+            if s[i] == '*':
+                st.pop()
             else:
-                star_count += 1
-            i+= 1
-        if star_count > 0:
-            s = s[:i-(star_count*2)] + s[i:]
-        return s
-            
+                st.append(s[i])
+
+        return ''.join(st)
