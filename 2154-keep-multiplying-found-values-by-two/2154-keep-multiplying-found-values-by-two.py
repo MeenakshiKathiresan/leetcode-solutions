@@ -5,9 +5,9 @@ class Solution(object):
         :type original: int
         :rtype: int
         """
-        nums.sort()
-        curr = original
-        for num in nums:
-            if num == curr:
-                curr *= 2
-        return curr
+        nums = set(nums)
+        
+        while original in nums:
+            original *= 2
+        
+        return original
