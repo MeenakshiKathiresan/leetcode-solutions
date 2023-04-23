@@ -7,7 +7,7 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        # graph:
+        # graphttps://leetcode.com/problems/kill-process/h:
         #     1 : 
         #     3 : [1, 5]
         #     10 : 
@@ -26,7 +26,7 @@ class Solution(object):
         queue = [kill]
         
         while queue:
-            curr = queue.pop(0)
+            curr = queue.pop()
             
             for child in graph[curr]:
                 res.append(child)
