@@ -33,5 +33,4 @@ class Solution(object):
                 new_board[i][j] = curr
                
        
-        print(board)
         return new_board
