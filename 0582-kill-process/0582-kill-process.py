@@ -26,7 +26,7 @@ class Solution(object):
         queue = [kill]
         
         while queue:
-            curr = queue.pop()
+            curr = queue.pop(0)
             
             for child in graph[curr]:
                 res.append(child)
