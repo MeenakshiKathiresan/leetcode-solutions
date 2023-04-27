@@ -9,14 +9,29 @@ class Solution(object):
         left = 0
         current_sum = 0
         count = 0
-        subarray_count = {0: 1} 
+        res = 0
         
-        for num in nums:
+        for i, num in enumerate(nums):
+            
+            
+            
             current_sum += num
             
-            if current_sum >= goal:
-                count += subarray_count.get(current_sum - goal, 0)
+            if num == 1:
+                count = 0
             
-            subarray_count[current_sum] = subarray_count.get(current_sum, 0) + 1
+            while current_sum >= goal and left <= i:
+
+                    
+
+                    if current_sum == goal:
+                        count += 1
+                    
+                    current_sum -= nums[left]
+                    left += 1
+            res+= count
         
-        return count
+
+        return res
+        
+    
