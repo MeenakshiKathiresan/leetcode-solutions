@@ -13,16 +13,12 @@ class Solution(object):
         
         for i, num in enumerate(nums):
             
-            
-            
             current_sum += num
             
             if num == 1:
                 count = 0
             
             while current_sum >= goal and left <= i:
-
-                    
 
                     if current_sum == goal:
                         count += 1
