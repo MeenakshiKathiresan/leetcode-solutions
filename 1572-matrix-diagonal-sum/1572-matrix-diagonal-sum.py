@@ -8,9 +8,12 @@ class Solution(object):
         n = len(mat)
         
         for i in range(n):
-            for j in range(n):
-                if i == j or i+j == n-1:
-                    sum += mat[i][j]
+            sum += mat[i][i]
+           
+            sum += mat[n - 1 - i][i]
         
+        if n%2 == 1:
+            mid = n/2
+            sum -= mat[mid][mid]
         
         return sum
