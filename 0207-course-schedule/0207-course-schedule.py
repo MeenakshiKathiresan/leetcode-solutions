@@ -1,37 +1,25 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        if len(prerequisites) == 0:
-            return True
-        
-        graph = {}
-        for course, prereq in prerequisites:
-            if prereq not in graph:
-                graph[prereq] = []
-            graph[prereq].append(course)
-        
-        visited = set()
-        visiting = set()
-        
-        def dfs(prereq):
-            if prereq in visiting:
-                return False
-            
-            if prereq in visited:
-                return True
-            
-            visiting.add(prereq)
-            
-            if prereq in graph:
-                for course in graph[prereq]:
-                    if not dfs(course):
-                        return False
-            
-            visiting.remove(prereq)
-            visited.add(prereq)
-            return True
-        
-        for course in range(numCourses):
-            if not dfs(course):
-                return False
-        
-        return True
+    def canFinish(self, numCourses, prerequisites):
+        indegree = [0] * numCourses
+        adj = [[] for _ in range(numCourses)]
+
+        for prerequisite in prerequisites:
+            adj[prerequisite[1]].append(prerequisite[0])
+            indegree[prerequisite[0]] += 1
+
+        queue = deque()
+        for i in range(numCourses):
+            if indegree[i] == 0:
+                queue.append(i)
+
+        nodesVisited = 0
+        while queue:
+            node = queue.popleft()
+            nodesVisited += 1
+
+            for neighbor in adj[node]:
+                indegree[neighbor] -= 1
+                if indegree[neighbor] == 0:
+                    queue.append(neighbor)
+
+        return nodesVisited == numCourses
