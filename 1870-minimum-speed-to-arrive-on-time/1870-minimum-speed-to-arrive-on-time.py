@@ -24,7 +24,6 @@ class Solution(object):
                 else:
                     total_time += ceil(time)
             
-            print(speed, total_time)
             if total_time > hour:
                 l = speed + 1
             else:
