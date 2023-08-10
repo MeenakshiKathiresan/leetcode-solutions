@@ -3,10 +3,7 @@ class Solution:
         
         
         def isSame(i):
-            print(i)
             reassembled = goal[i:] + goal[:i] 
-            print(reassembled)
-            
             return reassembled == s
         
         
