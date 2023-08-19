@@ -20,8 +20,7 @@ class Solution:
                     if 0 <= new_i < len(board) and 0 <= new_j < len(board[0]):
                         if board[new_i][new_j] == "O":
                             dfs(new_i,new_j)
-        
-        # go through columns
+     
         for i in range(len(board)):
             j_0 = 0
             j_n = len(board[0]) -1
@@ -32,7 +31,6 @@ class Solution:
             if board[i][j_n] == "O":
                 dfs(i, j_n)
                 
-        # go through rows
         for j in range(len(board[0])):
             i_0 = 0
             i_n = len(board) -1
