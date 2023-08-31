@@ -2,23 +2,28 @@ class Solution:
     def rob(self, numbers: List[int]) -> int:
         if len(numbers) == 1: return numbers[0]
         
+        
         def rob_helper(nums):
-            dp = [-1] * len(nums)
+            
 
-            dp[0] = nums[0]
-
+            prev = nums[0]
+            prev2 = 0
 
 
             for i in range(1, len(nums)):
 
                 take = nums[i]
                 if i > 1:
-                    take = nums[i] + dp[i-2]
+                    take = nums[i] + prev2
 
-                not_take = dp[i-1]
+                not_take = prev
 
-                dp[i] = max(take, not_take)
+                curr = max(take, not_take)
+                
+                prev2 = prev
+                prev = curr
+                
 
-            return dp[len(nums)-1]
+            return prev
         
         return max(rob_helper(numbers[:len(numbers)-1]), rob_helper(numbers[1:]))
