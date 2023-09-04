@@ -14,16 +14,6 @@ class Solution:
                 j = (num-1) % n
             return (i,j)
         
-        
-        def convert_indices_to_num(i,j):
-            num = (n-i-1) * n
-            
-            # reverse
-            if i % 2 == n % 2:
-                num += n - j-1
-            else:
-                num += j + 1
-            return num
 
         def get_neighbors(curr):
             i, j = convert_num_to_indices(curr)
