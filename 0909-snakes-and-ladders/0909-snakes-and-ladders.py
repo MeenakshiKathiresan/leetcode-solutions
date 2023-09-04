@@ -5,15 +5,25 @@ class Solution:
         n = len(board)
 
         def convert_num_to_indices(num):
-            num -= 1
-            i = n - 1 - num // n
-            j = num % n if i % 2 != n % 2 else n - 1 - num % n
-            return i, j
-
-        def convert_indices_to_num(i, j):
-            num = (n - i - 1) * n
-            num += j if i % 2 != n % 2 else n - 1 - j
-            return num + 1
+            i = (n-1) - (num-1)//n
+            
+            # reverse
+            if i % 2 == n % 2:
+                j = (n-1) - (num-1) % n
+            else:
+                j = (num-1) % n
+            return (i,j)
+        
+        
+        def convert_indices_to_num(i,j):
+            num = (n-i-1) * n
+            
+            # reverse
+            if i % 2 == n % 2:
+                num += n - j-1
+            else:
+                num += j + 1
+            return num
 
         def get_neighbors(curr):
             i, j = convert_num_to_indices(curr)
