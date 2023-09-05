@@ -23,7 +23,7 @@ class Solution:
                 status, res = find_circle(nei, node)
                 if status: return status, res
                 circle.pop()
-                vis.remove(node)
+             
 
             return False, None
 
