@@ -6,7 +6,7 @@
 class Solution:
     def splitListToParts(self, head: Optional[ListNode], k: int) -> List[Optional[ListNode]]:
         
-        start = head
+        new_head = head
         count = 0
         while head:
             head = head.next
@@ -15,11 +15,10 @@ class Solution:
         split_size = count // k
         add_one_count = count % k
         
-        head = start
+        head = new_head
        
         res = []
         count = 0
-        total_count = 0
         
         new_head = head
         
@@ -29,6 +28,7 @@ class Solution:
             count += 1 
             if len(res) < add_one_count:
                 plus_one = 1
+                
             if count < (split_size + plus_one):
                 head = head.next
             else:
@@ -37,7 +37,6 @@ class Solution:
                 head.next = None
                 head = new_head
                 count = 0
-            total_count += 1
             
         
         while len(res) < k:
