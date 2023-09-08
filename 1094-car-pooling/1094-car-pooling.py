@@ -9,7 +9,7 @@ class Solution:
             while len(heap) > 0 and heap[0][0] <= trip[1]:
                     curr_car -= heap[0][1]
                     heapq.heappop(heap)
-            if (curr_car + trip[0] <= capacity):
+            if curr_car + trip[0] <= capacity:
                 curr_car += trip[0]
                 heapq.heappush(heap, [trip[2],trip[0]])
             else:
