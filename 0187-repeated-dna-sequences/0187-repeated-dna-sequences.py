@@ -1,11 +1,11 @@
 class Solution:
     def findRepeatedDnaSequences(self, s: str) -> List[str]:
-        L, n = 10, len(s)     
-        seen, output = set(), set()
-
-        for start in range(n - L + 1):
-            tmp = s[start:start + L]
-            if tmp in seen:
-                output.add(tmp[:])
-            seen.add(tmp)
-        return output
+        
+        seen, res = set(), set()
+        
+        for i in range(len(s)-9):
+            if s[i:i+10] in seen:
+                res.add(s[i:i+10])
+            seen.add(s[i:i+10])
+        return res
+            
