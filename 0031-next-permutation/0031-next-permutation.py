@@ -24,11 +24,9 @@ class Solution:
                 nd -= 1
 
             if cmp_nd == -1:
-                print("rev")
                 nums[:] = nums[::-1]
             else:
                 target = nums[cmp_nd]
-                print(cmp_nd)
                 next_element = 101
                 next_element_nd = -1
                 for i in range(cmp_nd+1, start+1):
