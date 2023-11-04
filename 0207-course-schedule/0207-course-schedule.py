@@ -14,6 +14,7 @@ class Solution:
 
         nodesVisited = 0
         while queue:
+            
             node = queue.popleft()
             nodesVisited += 1
 
