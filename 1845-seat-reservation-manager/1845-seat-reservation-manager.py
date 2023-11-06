@@ -6,8 +6,6 @@ class SeatManager:
         for i in range(1, n+1):
             heappush(self.heap, i)
         
-        print(self.heap)
-        
 
     def reserve(self) -> int:
         return heappop(self.heap)
