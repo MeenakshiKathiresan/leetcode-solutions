@@ -10,10 +10,7 @@ class Solution:
         for i in range(len(dist)):
             time.append(dist[i]/speed[i])
         
-        
         time.sort()
-        print(time)
-        
         
         last = time[0]
         i = 1
