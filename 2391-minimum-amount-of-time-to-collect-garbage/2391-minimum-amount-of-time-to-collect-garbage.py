@@ -19,7 +19,6 @@ class Solution:
                 p_counter += p_travel + gar.count("P")
                 p_travel = 0
         
-        print(m_counter, g_counter, p_counter)
         return m_counter + g_counter + p_counter
                     
                   
