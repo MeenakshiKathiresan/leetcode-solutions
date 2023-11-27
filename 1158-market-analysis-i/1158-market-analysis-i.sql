@@ -12,5 +12,3 @@ LEFT JOIN
     AND orders.order_date <= '2019-12-31'
 GROUP BY 
     users.user_id
-ORDER BY 
-    users.user_id
