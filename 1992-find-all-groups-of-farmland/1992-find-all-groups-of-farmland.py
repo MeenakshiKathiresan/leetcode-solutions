@@ -10,7 +10,6 @@ class Solution:
             if 0 <= r <len(land) and 0 <= c < len(land[0]):
                 if (r,c) not in visited:
                     if land[r][c] == 1:
-                        print(r,c)
                         res[-1][2] = max(r, res[-1][2])
                         res[-1][3] = max(c, res[-1][3])
                         for d in dir:
