@@ -4,3 +4,15 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 <p align="center">
 <img src="https://github.com/MeenakshiKathiresan/leetcode-solutions/assets/26730019/84a32a57-9f23-4074-b21a-0b93192b6cfd">
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+<!---LeetCode Topics End-->
