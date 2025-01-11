@@ -1,7 +1,6 @@
 class Solution:
     def canConstruct(self, s: str, k: int) -> bool:
         c = Counter(s)
-        print(c)
 
         odd_count = 0
         for v in c.values():
