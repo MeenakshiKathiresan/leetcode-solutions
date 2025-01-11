@@ -10,6 +10,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## String
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Prefix Sum
@@ -24,4 +25,16 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
