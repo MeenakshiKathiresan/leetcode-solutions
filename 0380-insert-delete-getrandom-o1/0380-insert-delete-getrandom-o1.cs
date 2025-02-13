@@ -22,8 +22,6 @@ public class RandomizedSet {
             return false;
         }
         
-     
-        
         int ind = randomNumbers[val];
         int last = numberList[numberList.Count - 1];
         
