@@ -24,6 +24,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -39,6 +40,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -96,4 +98,8 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
