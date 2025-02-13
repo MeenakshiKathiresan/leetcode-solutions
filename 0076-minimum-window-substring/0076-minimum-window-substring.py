@@ -23,7 +23,6 @@ class Solution:
                     while req_met == req:
                         if (right - left + 1) < min_len:
                             min_len = right - left + 1
-                            print(left, right)
                             res = [left, right]
 
                         if s[left] in s_count:
