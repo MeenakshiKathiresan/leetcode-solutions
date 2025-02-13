@@ -5,26 +5,24 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        # iterate from left to right to store prefix of each
-        prefix = postfix = 1
-        
-        ans = []
-        
-        for i, num in enumerate(nums):
+        prefix = 1
+        postfix = 1
+
+        res = []
+
+        # left to right
+        for i, n in enumerate(nums):
             if i == 0:
-                ans.append(1)
+                res.append(1)
             else:
                 prefix *= nums[i-1]
-                ans.append(prefix)
+                res.append(prefix)
         
-        for i in range(len(nums)):
-            if i == 0:
-                continue
-            else:
+        # right to left 
+        for i in range(len(nums) - 2, -1, -1):
+            postfix *= nums[i+1]
+            res[i] *= postfix
+        
+        return res
+
                 
-                postfix *= nums[-i]
-                ans[-i-1] *= postfix
-        return ans
-                
-            
-            
