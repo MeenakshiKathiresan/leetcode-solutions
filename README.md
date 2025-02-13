@@ -22,6 +22,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -73,4 +74,20 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
