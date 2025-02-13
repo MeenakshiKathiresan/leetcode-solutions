@@ -3,24 +3,17 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
+        zero_rows = set()
+        zero_cols = set()
+
+        for i, row in enumerate(matrix):
+            for j, col in enumerate(row):
+                if col == 0:
+                    zero_rows.add(i)
+                    zero_cols.add(j)
         
-        def convertRowCol(i,j):
-            for row in range(len(matrix[0])):
-                if matrix[i][row] != 0:
-                    matrix[i][row] = "x"
- 
-            for col in range(len(matrix)):
-                if matrix[col][j]!= 0:
-                    matrix[col][j] = "x"
-        
-        for i in range(len(matrix)):
-            for j in range(len(matrix[0])):
-                if matrix[i][j] == 0:
-                    convertRowCol(i,j)
-        
-        
-        for i in range(len(matrix)):
-            for j in range(len(matrix[0])):
-                if matrix[i][j] == "x":
+
+        for i, row in enumerate(matrix):
+            for j, col in enumerate(row):
+                if i in zero_rows or j in zero_cols:
                     matrix[i][j] = 0
-        
