@@ -10,6 +10,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -35,6 +36,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -52,6 +54,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Sorting
