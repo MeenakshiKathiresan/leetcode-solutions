@@ -1,6 +1,8 @@
 class Solution:
     def candy(self, ratings: List[int]) -> int:
-        
+        # all valleys should be given 1
+        # from valleys - travel 
+                
         n = len(ratings)
         res = [1] * n
         
