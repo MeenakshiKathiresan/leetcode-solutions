@@ -12,8 +12,6 @@ class Solution:
             if node and not node.right and not node.left:
                 if curr_sum + node.val == targetSum:
                     return True
-                return False
-            if curr_sum > targetSum: return False
             
             left = traverse(node.left, node.val + curr_sum)
             right = traverse(node.right, node.val + curr_sum)
