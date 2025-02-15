@@ -93,6 +93,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
@@ -123,6 +124,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
