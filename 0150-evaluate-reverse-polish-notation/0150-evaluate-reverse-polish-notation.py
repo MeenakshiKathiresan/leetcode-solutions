@@ -14,7 +14,7 @@ class Solution:
                 elif token == "*":
                     res = n1 * n2
                 else:
-                    res = int(float(n1)/float(n2))
+                    res = int(n1/n2)
                 num_stack.append(res)
             else:
                 num_stack.append(int(token))
