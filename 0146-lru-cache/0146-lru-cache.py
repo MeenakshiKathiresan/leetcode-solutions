@@ -22,12 +22,6 @@ class LRUCache:
         node.next = prev_mru
         prev_mru.prev = node
     
-    def _trim_tail(self):
-        if self.last.prev and self.last.prev.prev:
-            prev = self.last.prev.prev
-            prev.next = self.last
-            self.last.prev = prev
-    
     def _remove(self, node: Node):
         next_node = node.next
         prev_node = node.prev
@@ -50,7 +44,7 @@ class LRUCache:
         if key not in self.cache and len(self.cache) + 1 > self.capacity:
             lru = self.last.prev
             del self.cache[lru.key]
-            self._trim_tail()
+            self._remove(lru)
 
         if key in self.cache:
             node = self.cache[key]
