@@ -153,6 +153,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
