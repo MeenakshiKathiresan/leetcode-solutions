@@ -46,6 +46,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -122,6 +123,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
