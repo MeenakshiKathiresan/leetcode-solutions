@@ -65,6 +65,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -119,6 +120,11 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
