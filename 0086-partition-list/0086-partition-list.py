@@ -18,6 +18,6 @@ class Solution:
                 greater = greater.next
             head = head.next
 
-            greater.next = None
-            lower.next = ghead.next
+        greater.next = None
+        lower.next = ghead.next
         return lhead.next
