@@ -6,26 +6,13 @@
 #         self.right = right
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        
-        if root == None or (root.right == None and root.left == None):
-            return root.val
-        
-        def getNumber(root, num):
+        def traverse(node, sum):
+            if not node: return 0
             
-            if root == None:
-                return 0
-            
-            if root.right == None and root.left == None: 
-                return num * 10 + root.val
-            
-            n1 = getNumber(root.right, num * 10 + root.val)
-            
-            n2 = getNumber(root.left, num * 10 + root.val)
-            
-            
-            return n1 + n2
+            sum = (sum * 10) + node.val
 
+            if not node.right and not node.left:
+                return sum
             
-        return getNumber(root, 0)
-        
-    
+            return traverse(node.left, sum) + traverse(node.right, sum)
+        return traverse(root, 0)
