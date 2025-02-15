@@ -29,7 +29,6 @@ class LRUCache:
         next_node.prev = prev_node
 
     def get(self, key: int) -> int:
-        print(key, "get")
         if key in self.cache:
             node = self.cache[key]
             self._remove(node)
@@ -40,7 +39,6 @@ class LRUCache:
         
 
     def put(self, key: int, value: int) -> None:
-        print(key, "put")
         if key not in self.cache and len(self.cache) + 1 > self.capacity:
             lru = self.last.prev
             del self.cache[lru.key]
