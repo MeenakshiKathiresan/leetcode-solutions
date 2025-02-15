@@ -33,7 +33,6 @@ class LRUCache:
             node = self.cache[key]
             self._remove(node)
             self._move_to_front(node)
-            print(node.val)
             return node.val
         return - 1
         
