@@ -1,37 +1,30 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        # find the number of 1 components
         
+        res = 0
+        directions = [[0,1],[0,-1],[1,0],[-1,0]]
         visited = set()
         
-        def dfs(i,j):
-            
-            if (i,j) in visited:
-                return 0
-            
-            if not (0 <= i < len(grid) and 0 <= j < len(grid[0])):
-                return 0
-            
-
-            if grid[i][j] == "1":
-            
-                visited.add((i,j))
-
-                directions = [[0,1],[0,-1],[1,0],[-1,0]]
-
-                for direction in directions:
-                    dfs(i+direction[0], j+direction[1])
-
-                return 1
-            return 0
-                
-        
-        count = 0
-        
         for i, row in enumerate(grid):
-            for j, cell in enumerate(row):
-                if (i,j) not in visited and cell != 0:
-                    count += dfs(i,j)
+            for j, col in enumerate(row):
+                if grid[i][j] == "1" and (i,j) not in visited:
+                    res += 1
+                    stack = deque([(i,j)])
+                    visited.add((i,j))
                     
-        
-        return count
+                    while stack:
+                        curr_i, curr_j = stack.popleft()
+                        
+                        for d in directions:
+                            new_i = curr_i + d[0]
+                            new_j = curr_j + d[1]
+                            
+                            if 0 <= new_i < len(grid) and 0 <= new_j < len(grid[0]):
+                                if grid[new_i][new_j] == "1" and (new_i, new_j) not in visited:
+                                    
+                                    stack.append((new_i, new_j))
+                                    visited.add((new_i, new_j))
+        return res
+                            
+                        
+                    
