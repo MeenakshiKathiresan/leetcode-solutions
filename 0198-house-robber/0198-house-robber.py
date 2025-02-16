@@ -1,14 +1,14 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        dp = [0 for i in range(len(nums))]
-
+        prev1, prev2 = 0, 0
+        res = 0
         for i, n in enumerate(nums):
-            rob = n 
-
-            if i > 1:
-                rob += dp[i - 2]
+            rob = n + prev2
             
-            no_rob = dp[i-1]
-            dp[i] = max(rob, no_rob)
+            no_rob = prev1
+            res = max(rob, no_rob)
+            prev2 = prev1
+            prev1 = res
+            
         
-        return dp[-1]
+        return res
