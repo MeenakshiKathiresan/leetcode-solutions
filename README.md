@@ -13,6 +13,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -31,6 +32,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -52,6 +54,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0076-minimum-window-substring](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -109,6 +112,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0198-house-robber) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack
@@ -219,4 +223,9 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
