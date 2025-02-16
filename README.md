@@ -35,6 +35,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0274-h-index) |
@@ -142,6 +143,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | ------- |
 | [0048-rotate-image](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0112-path-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
@@ -192,6 +195,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0322-coin-change) |
 ## Binary Tree
@@ -240,4 +244,8 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
