@@ -32,6 +32,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0134-gas-station](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0274-h-index) |
@@ -108,6 +109,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0198-house-robber) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack
 |  |
