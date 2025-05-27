@@ -105,6 +105,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Sorting
 |  |
 | ------- |
