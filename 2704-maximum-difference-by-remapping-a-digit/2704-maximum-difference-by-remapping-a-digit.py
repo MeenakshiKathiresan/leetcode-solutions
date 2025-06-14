@@ -9,12 +9,10 @@ class Solution:
         for ch in num_str:
             if ch != "9":
                 change = ch
-                print(ch)
                 break
         
         if change != "":
             largest = num_str.replace(change,"9")
         else:
             largest = num_str
-        print(largest, smallest)
         return int(largest) - int(smallest)
