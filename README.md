@@ -54,6 +54,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3194-find-words-containing-character](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3194-find-words-containing-character) |
@@ -91,6 +92,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
@@ -118,6 +120,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0274-h-index) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3321-type-of-triangle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Counting Sort
