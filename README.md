@@ -21,6 +21,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3194-find-words-containing-character) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [3194-find-words-containing-character](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## String Matching
 |  |
@@ -83,6 +85,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +212,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0129-sum-root-to-leaf-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
@@ -222,6 +226,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
