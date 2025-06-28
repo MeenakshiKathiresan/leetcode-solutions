@@ -15,6 +15,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0020-valid-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
+| [0567-permutation-in-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0829-subdomain-visit-count) |
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -86,6 +87,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0146-lru-cache](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0567-permutation-in-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0829-subdomain-visit-count) |
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -153,6 +155,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +183,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Matrix
