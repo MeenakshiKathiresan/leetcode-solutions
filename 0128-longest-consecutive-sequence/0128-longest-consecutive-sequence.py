@@ -1,20 +1,27 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        if nums == []: return 0
-        nums.sort()
-        res = 1
-        curr = 1
-        print(nums)
-        for i, num in enumerate(nums):
-            if i > 0:
-                if num == nums[i - 1]:
-                    continue
-                if num == nums[i-1] + 1:
-                    print(curr)
+        # have 2 sets, all num existing, all num visited
+
+        num_map = set(nums)
+        visited = set()
+        res = 0
+
+        for num in nums:
+            if num not in visited:
+                visited.add(num)
+                curr = num + 1
+                count = 1
+                while curr in num_map and curr not in visited:
+                    count += 1
+                    visited.add(curr)
                     curr += 1
-                else:
-                    print(num, i, "reset ")
-                    curr = 1
-            res = max(res, curr)
-        
+                
+                curr = num - 1
+                while curr in num_map and curr not in visited:
+                    visited.add(curr)
+                    count += 1
+                    curr -= 1
+                res = max(res, count)
+
+
         return res
