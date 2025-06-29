@@ -18,6 +18,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0829-subdomain-visit-count) |
+| [1023-time-based-key-value-store](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -92,6 +93,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0829-subdomain-visit-count) |
+| [1023-time-based-key-value-store](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -148,6 +150,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | ------- |
 | [0146-lru-cache](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1023-time-based-key-value-store](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Randomized
 |  |
 | ------- |
@@ -308,6 +311,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1023-time-based-key-value-store](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Union Find
 |  |
