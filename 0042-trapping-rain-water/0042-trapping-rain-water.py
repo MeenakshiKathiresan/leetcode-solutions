@@ -35,5 +35,4 @@ class Solution(object):
                 r_wall_ht = max(r_wall_ht, height[right])
                 right -= 1
 
-        print(right, left)
         return res
