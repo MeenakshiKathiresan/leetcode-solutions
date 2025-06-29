@@ -35,6 +35,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -97,6 +98,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0135-candy) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -151,6 +153,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0086-partition-list) |
