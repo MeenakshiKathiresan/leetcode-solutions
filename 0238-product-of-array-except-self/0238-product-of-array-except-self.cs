@@ -1,10 +1,8 @@
 public class Solution {
     public int[] ProductExceptSelf(int[] nums) {
-        List<int> res = new List<int>();
 
-        for(int i = 0; i < nums.Length; i++){
-            res.Add(1);
-        }
+        int[] res = new int[nums.Length];
+        Array.Fill(res,1);
 
         int product = 1;
         for(int i = 1; i < nums.Length; i++){
@@ -18,6 +16,6 @@ public class Solution {
             product *= nums[i+1];
             res[i] *= product;
         }
-        return res.ToArray();
+        return res;
     }
 }
