@@ -5,7 +5,7 @@ public class Solution {
         Stack<int> stack = new Stack<int>();
 
         for(int i = 0; i < n; i++){
-            while(stack.Count() > 0 && temperatures[stack.Peek()] < temperatures[i] ){
+            while(stack.Count > 0 && temperatures[stack.Peek()] < temperatures[i] ){
                 int prevIndex = stack.Pop();
                 res[prevIndex] = i - prevIndex;
             }
