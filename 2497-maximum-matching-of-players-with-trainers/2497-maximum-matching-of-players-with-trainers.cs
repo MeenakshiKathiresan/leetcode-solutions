@@ -12,11 +12,9 @@ public class Solution {
         while (p < players.Length && t < trainers.Length){
             if(players[p] <= trainers[t]){
                 p++; 
-                t++;
                 res++;
-            }else{
-                t++;
             }
+            t++;
 
         }
         return res;
