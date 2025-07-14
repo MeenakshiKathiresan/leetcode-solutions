@@ -21,7 +21,6 @@ public class Solution {
         int res = 0;
         while (head != null){
             if(head.val == 1){
-                Console.WriteLine(len);
                 res += (int) Math.Pow(2, len);
             }
             len--;
