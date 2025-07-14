@@ -11,21 +11,11 @@
  */
 public class Solution {
     public int GetDecimalValue(ListNode head) {
-        ListNode slow = head;
-        int len = 0;
-        while(slow != null){
-            len += 1;
-            slow = slow.next;
-        }
-        len--;
-        int res = 0;
-        while (head != null){
-            if(head.val == 1){
-                res += (int) Math.Pow(2, len);
-            }
-            len--;
+        int result = 0;
+        while (head != null) {
+            result = (result << 1) | head.val;
             head = head.next;
         }
-        return res;
+        return result;
     }
 }
