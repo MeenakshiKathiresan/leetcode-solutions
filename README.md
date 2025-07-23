@@ -23,6 +23,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -121,6 +122,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -207,6 +209,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
