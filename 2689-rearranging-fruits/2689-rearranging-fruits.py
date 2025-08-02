@@ -15,6 +15,7 @@ class Solution:
                 return -1
             merge.extend([k] * (abs(c) // 2))
 
-
+        if not merge:
+            return 0
         merge.sort()
         return sum(min(2 * m, x) for x in merge[: len(merge) // 2])
