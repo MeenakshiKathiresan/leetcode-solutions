@@ -3,7 +3,6 @@ class Solution:
     def minCost(self, basket1: List[int], basket2: List[int]) -> int:
         b1 = Counter(basket1)
         b2 = Counter(basket2)
-        print(b1, b2)
 
         moves = []
         min_el = 999999999
