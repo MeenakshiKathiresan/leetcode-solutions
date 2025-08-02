@@ -77,6 +77,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -112,6 +113,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2689-rearranging-fruits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Greedy
 |  |
@@ -126,6 +128,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
@@ -160,6 +163,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [3321-type-of-triangle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Counting Sort
