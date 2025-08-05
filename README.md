@@ -83,6 +83,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [3321-type-of-triangle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -364,6 +365,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1023-time-based-key-value-store](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -386,6 +388,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -394,4 +397,12 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
