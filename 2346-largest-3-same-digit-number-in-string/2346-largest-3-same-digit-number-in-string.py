@@ -25,7 +25,6 @@ class Solution:
                 if curr > max_val:
                     max_res = ch * 3
                     max_val = curr
-                print(ch)
                 cnt = 1
             prev = ch
 
