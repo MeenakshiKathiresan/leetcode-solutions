@@ -1,12 +1,17 @@
-class Solution:
-    def maximum69Number (self, num: int) -> int:
-        
+class Solution(object):
+    def maximum69Number (self, num):
+        """
+        :type num: int
+        :rtype: int
+        """
         num_str = str(num)
-        i = 0
-        while i < len(num_str) and num_str[i] == "9":
-            i += 1
+        ans = 0
+        changed = False
+        for i, no in enumerate(num_str):
+            if not changed and no == '6':
+                changed = True
+                no = '9'
 
-        if i == len(num_str):
-            return num
-        else:
-            return int(num_str[:i] + "9" + num_str[i+1:])
+            ans += int(no) * pow(10, (len(num_str) - i - 1))
+
+        return ans
