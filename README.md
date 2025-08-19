@@ -76,6 +76,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2689-rearranging-fruits) |
@@ -156,6 +157,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
