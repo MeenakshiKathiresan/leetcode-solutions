@@ -83,6 +83,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [3194-find-words-containing-character](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -243,6 +244,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
 |  |
 | ------- |
