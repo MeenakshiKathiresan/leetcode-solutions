@@ -1,14 +1,19 @@
-class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        # sorted version can be key
-        # freq map can be key
-
-        freq = defaultdict(list)
-        res = []
-        for word in strs:
-            freq["".join(sorted(word))].append(word)
+class Solution(object):
+    def groupAnagrams(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: List[List[str]]
+        """
+        ans = {}
+        final = []
         
-        for val in freq.values():
-            res.append(val)
-            
-        return res
+        for str in strs:
+            new_str = ''.join(sorted(str))
+            if new_str not in ans:
+                ans[new_str] = []
+            ans[new_str].append(str)
+        
+        for k,v in ans.items():
+            final.append(v)
+        
+        return final
