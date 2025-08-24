@@ -14,6 +14,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -46,6 +47,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0040-combination-sum-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -96,6 +98,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | ------- |
 | [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -166,6 +169,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
