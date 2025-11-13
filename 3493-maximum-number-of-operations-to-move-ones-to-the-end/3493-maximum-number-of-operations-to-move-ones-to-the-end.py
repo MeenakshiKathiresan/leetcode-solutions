@@ -5,16 +5,16 @@ class Solution:
         # when 1 and can load, add 0 seen so far
 
         count_1 = 0
-        can_load = False
+        can_move = False
         res = 0
         for ch in s:
             if ch == "1":
-                if can_load:
+                if can_move:
                     res += count_1
                 count_1 += 1
-                can_load = False
+                can_move = False
             else:
-                can_load = True
+                can_move = True
         
         if s[-1] == "0":
             res += count_1
