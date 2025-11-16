@@ -25,6 +25,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -166,6 +167,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
