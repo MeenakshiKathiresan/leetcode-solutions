@@ -68,6 +68,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0322-coin-change](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0829-subdomain-visit-count](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0829-subdomain-visit-count) |
