@@ -119,6 +119,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0424-longest-repeating-character-replacement](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0829-subdomain-visit-count) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -167,6 +168,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
