@@ -3,7 +3,7 @@ class Solution:
         n = 1
         if k % 2 == 0 or k % 5 == 0: return -1
         ct = 1
-        while ct < 100000:
+        while ct <= k:
             if n % k == 0:
                 return ct
             else:
