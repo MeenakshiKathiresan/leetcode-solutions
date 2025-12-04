@@ -27,6 +27,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -239,6 +240,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -416,6 +418,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Simulation
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3790-fruits-into-baskets-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
