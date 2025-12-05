@@ -41,6 +41,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0238-product-of-array-except-self](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Array
 |  |
@@ -91,6 +92,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [3194-find-words-containing-character](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -179,6 +181,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sorting
 |  |
 | ------- |
