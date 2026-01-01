@@ -54,6 +54,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0048-rotate-image](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -167,6 +168,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0002-add-two-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0231-power-of-two) |
