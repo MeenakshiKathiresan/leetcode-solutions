@@ -312,6 +312,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -330,6 +331,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -346,6 +348,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -362,6 +365,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
