@@ -143,6 +143,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0011-container-with-most-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0135-candy) |
+| [1382-balance-a-binary-search-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -314,6 +315,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -334,6 +336,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0543-diameter-of-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -369,6 +372,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -379,6 +383,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0191-number-of-1-bits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -462,4 +467,8 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
