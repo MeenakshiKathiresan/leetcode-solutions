@@ -33,6 +33,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2833-furthest-point-from-origin](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3194-find-words-containing-character](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -167,6 +168,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
 |  |
