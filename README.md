@@ -82,6 +82,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0954-maximum-sum-circular-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1390-four-divisors) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1813-maximum-erasure-value](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
@@ -278,6 +279,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
 |  |
@@ -342,6 +344,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -359,6 +362,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
@@ -475,4 +479,8 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
