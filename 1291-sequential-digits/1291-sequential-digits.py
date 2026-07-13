@@ -17,7 +17,7 @@ class Solution(object):
             print(digit_count,min,max)
             temp = []
 
-            for i in range(1, 10 - digit_count + 1):
+            for i in range(1, 11 - digit_count):
                 curr_num = 0
                 for j in range(i, i + digit_count):
                     curr_num = curr_num * 10 + j
