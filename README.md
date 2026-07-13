@@ -81,6 +81,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0907-koko-eating-bananas](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1331-rank-transform-of-an-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -133,6 +134,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1015-smallest-integer-divisible-by-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
+| [1331-rank-transform-of-an-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1813-maximum-erasure-value](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -200,6 +202,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0049-group-anagrams](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1331-rank-transform-of-an-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
