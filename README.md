@@ -483,4 +483,8 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
