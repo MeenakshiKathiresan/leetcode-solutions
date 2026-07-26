@@ -74,6 +74,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0322-coin-change](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -185,6 +186,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -204,6 +206,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0049-group-anagrams](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
