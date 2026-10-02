@@ -502,4 +502,8 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
