@@ -21,6 +21,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0424-longest-repeating-character-replacement](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0829-subdomain-visit-count) |
+| [0856-score-of-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -265,6 +266,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0042-trapping-rain-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
@@ -506,4 +508,5 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
