@@ -97,6 +97,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -147,6 +148,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2689-rearranging-fruits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -163,6 +165,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2689-rearranging-fruits) |
@@ -215,6 +218,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1331-rank-transform-of-an-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2689-rearranging-fruits) |
@@ -458,6 +462,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Simulation
 |  |
@@ -465,6 +470,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2211-count-collisions-on-a-road](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3790-fruits-into-baskets-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Bucket Sort
 |  |
