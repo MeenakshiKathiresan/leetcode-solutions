@@ -27,6 +27,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -162,6 +163,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [1448-maximum-69-number](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -273,6 +275,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0739-daily-temperatures](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
@@ -518,4 +521,5 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0022-generate-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
