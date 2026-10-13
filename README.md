@@ -112,6 +112,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3790-fruits-into-baskets-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
@@ -174,6 +175,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [2689-rearranging-fruits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [3321-type-of-triangle](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
