@@ -525,4 +525,8 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0856-score-of-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
