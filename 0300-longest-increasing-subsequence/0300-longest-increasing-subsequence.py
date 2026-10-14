@@ -1,10 +1,9 @@
 class Solution:
-    def lengthOfLIS(self, nums: List[int]) -> int:
-        dp = [1 for i in range(len(nums))]
+    def lengthOfLIS(self, nums: list[int]) -> int:
+        lis = [1 for i in nums] 
+        for i, num in enumerate(nums):
+            for j, num_comp in enumerate(nums[:i]):
+                if num_comp < num:
+                    lis[i] = max(lis[i], lis[j] + 1)
 
-        for i, n in enumerate(nums):
-            for j, p in enumerate(nums[:i]):
-                if n > p:
-                    dp[i] = max(dp[i], dp[j] + 1)
-        return max(dp)
-        
+        return max(lis)
