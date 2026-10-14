@@ -63,6 +63,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0053-maximum-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0134-gas-station) |
@@ -430,6 +431,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -465,6 +467,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0022-generate-parentheses](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 ## Heap (Priority Queue)
 |  |
