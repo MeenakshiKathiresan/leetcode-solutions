@@ -54,6 +54,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0039-combination-sum) |
@@ -124,6 +125,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0049-group-anagrams) |
