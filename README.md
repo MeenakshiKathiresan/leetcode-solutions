@@ -90,6 +90,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0907-koko-eating-bananas](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -312,6 +313,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0073-set-matrix-zeroes](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
@@ -393,6 +395,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 | [0226-invert-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
