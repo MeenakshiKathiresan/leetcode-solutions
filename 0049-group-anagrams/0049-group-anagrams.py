@@ -1,19 +1,17 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
+class Solution:
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
         """
-        :type strs: List[str]
-        :rtype: List[List[str]]
+        sorted version as key
         """
-        ans = {}
-        final = []
+        anagram = {}
+        res = []
+        for word in strs:
+            key_list = sorted(word)
+            key = "".join(key_list)
+            if key not in anagram:
+                anagram[key] = []
+            anagram[key].append(word)
         
-        for str in strs:
-            new_str = ''.join(sorted(str))
-            if new_str not in ans:
-                ans[new_str] = []
-            ans[new_str].append(str)
-        
-        for k,v in ans.items():
-            final.append(v)
-        
-        return final
+        for v in anagram.values():
+            res.append(v)
+        return res
