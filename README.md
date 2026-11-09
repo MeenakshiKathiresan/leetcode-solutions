@@ -525,6 +525,7 @@ Solved over 250+ leetcode problems on topics including array, string, hash map, 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MeenakshiKathiresan/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Enumeration
 |  |
